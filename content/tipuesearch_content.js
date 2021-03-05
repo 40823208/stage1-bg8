@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': '小組進度', 'text': '', 'tags': '', 'url': '小組進度.html'}, {'title': '影片', 'text': '', 'tags': '', 'url': '影片.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': '小組進度', 'text': '', 'tags': '', 'url': '小組進度.html'}, {'title': '影片', 'text': '', 'tags': '', 'url': '影片.html'}, {'title': '小組討論', 'text': 'https://gitter.im/40823208/stage1-bg8', 'tags': '', 'url': '小組討論.html'}]};
