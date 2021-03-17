@@ -207,21 +207,20 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+<t tx="leo.20200818170328.1">&lt;section data-background="https://github.com/40823246/stage1-bg8/tree/main/images/封面.png"&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+&lt;a href="https://40823208.github.io/stage1-bg8/content/index.html"&gt;2021-協同產品設計實習-stage1-bg8&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;自動分球機&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+      選題動機:希望能把遊戲機台的不同大小的鋼珠自動的分類乾淨。
+      
+      &lt;a href="https://www.newmobilelife.com/2017/04/04/diy-coin-sorting-machine/"&gt;參考資料1&lt;/a&gt;
+      &lt;a href="http://www.hw888.com.tw/%E8%9E%BA%E6%97%8B%E8%BC%B8%E9%80%81%E5%8E%9F%E7%90%86/"&gt;參考資料2&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
