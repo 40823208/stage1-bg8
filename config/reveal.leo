@@ -303,9 +303,8 @@ hight="300"&gt;
 
 </t>
 <t tx="leo.20200818195643.1">&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;Presentations can be &lt;a href="https://revealjs.com/pdf-export/"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-    &lt;iframe data-src="自動分球機報告.pdf" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+    &lt;h2&gt;PDF&lt;/h2&gt;
+    &lt;iframe data-src="自動分球機報告.pdf" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
 &lt;/section&gt;
 
 </t>
